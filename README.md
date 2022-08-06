@@ -1,5 +1,5 @@
 # rc-frontend-landing
-Design repo for Release Club v1.0 [ZoraxETHGlobal Hackathon]
+Code + Design repo for Release Club v1.0 [ZoraxETHGlobal Hackathon]
 
 
 
