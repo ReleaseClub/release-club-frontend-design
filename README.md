@@ -12,4 +12,5 @@ https://www.figma.com/file/wbx7bhsTMO2wrazRmD5FkJ/Release-Club-Website?node-id=3
 [Aug 5 06:30 PM EST] Public View - Low Fideilty Figna wireframes for Create Flow
 https://www.figma.com/file/wbx7bhsTMO2wrazRmD5FkJ/Release-Club-Website?node-id=36%3A3
 
-
+[Aug 7 12:28 AM EST Public View - High Fidelity Figma designs for Club Page Settings
+https://www.figma.com/file/wbx7bhsTMO2wrazRmD5FkJ/Release-Club-Website?node-id=109%3A275
